@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 7,
+      "title": "Angular",
+      "datetime": "July 05, 2022 10:34:19 PM",
+      "body": "I thought it may have been my formatting so I used your sample db.json to see but still I get this error. if there's a fix and you could help that would be greatly appreciated."
+    },
+    {
+      "id": 8,
+      "title": "Vuejs",
+      "datetime": "July 05, 2022 10:34:27 PM",
+      "body": "I thought it may have been my formatting so I used your sample db.json to see but still I get this error. if there's a fix and you could help that would be greatly appreciated."
+    },
+    {
+      "id": 9,
+      "title": "Goland",
+      "datetime": "July 05, 2022 11:08:03 PM",
+      "body": "I thought it may have been my formatting so I used your sample db.json to see but still I get this error. if there's a fix and you could help that would be greatly appreciated."
+    },
+    {
+      "id": 10,
+      "title": "C#",
+      "datetime": "July 05, 2022 11:08:20 PM",
+      "body": "I thought it may have been my formatting so I used your sample db.json to see but still I get this error. if there's a fix and you could help that would be greatly appreciated."
+    },
+    {
+      "id": 11,
+      "title": "Laravel",
+      "datetime": "July 06, 2022 12:42:09 PM",
+      "body": "I thought it may have been my formatting so I used your sample db.json to see but still I get this error. if there's a fix and you could help that would be greatly appreciated."
+    }
+  ]
+}
